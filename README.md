@@ -80,7 +80,8 @@ O tempo de negociação foi calculado com base na diferença entre a data de cri
 
 Durante a validação de alguns casos, foi identificado que a data de criação do deal, em diversas situações, ocorre após a data de criação do contrato financeiro, o que indica que a negociação já estava em andamento antes do registro no CRM. Isso compromete a confiabilidade da variável de tempo de negociação e pode distorcer as conclusões da análise.
 
-Conclusão
+##Conclusão##
+
 Apesar de a análise sugerir que o tempo de negociação e o faturamento do cliente podem influenciar a retenção de longo prazo, a inconsistência dos dados limita a validade dos resultados.
 
 Foi identificado que, em muitos casos, o deal não foi criado no início real da negociação, o que distorce o cálculo do tempo de fechamento.
